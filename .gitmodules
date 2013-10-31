@@ -1,0 +1,3 @@
+[submodule "Propeller/PropPWM"]
+	path = Propeller/PropPWM
+	url = git://github.com/snyderdan/PropPWM
